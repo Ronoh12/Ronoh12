@@ -59,6 +59,6 @@ Build practical cybersecurity skills and contribute to security projects while p
 
 ## Connect With Me
 
-LinkedIn: *(add your LinkedIn profile here)*
+LinkedIn: https://www.linkedin.com/in/rodgers-rono-a142a5188/
 
 GitHub: https://github.com/Ronoh12
