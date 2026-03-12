@@ -1,62 +1,98 @@
-# Hi, I'm Rodgers Rono 👋
+# Rodgers Rono
 
-Cybersecurity enthusiast focused on **Blue Team security, network traffic analysis, and system hardening**.
+Cybersecurity enthusiast focused on **Blue Team security, network traffic analysis, and incident investigation**.
 
-I build hands-on cybersecurity labs and investigation projects to develop practical defensive security skills.
+I build hands-on cybersecurity labs to practice real SOC analyst workflows.
 
 ---
 
-## Cybersecurity Skills
+# Cybersecurity Skills
 
 - Windows Security Auditing
-- Linux Hardening
 - Network Traffic Analysis
 - Packet Investigation
-- Vulnerability Scanning
-- Incident Investigation
+- Incident Response
+- Threat Detection
 - Security Documentation
 
 ---
 
-## Tools & Technologies
+# Tools
 
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-green)
-![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-blue)
-![Linux](https://img.shields.io/badge/Linux-Security-black)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
-
----
-
-## Featured Cybersecurity Projects
-
-### Windows Security Audit
-Windows host security audit using PowerShell to collect system evidence and analyze firewall configuration, user privileges, and network exposure.
-
-### Wireshark Network Investigation
-Packet capture analysis using Wireshark to inspect HTTP traffic and identify communication patterns.
-
-### Malicious Traffic Analysis
-Network investigation project analyzing suspicious packet captures and extracting indicators of compromise.
+- Wireshark
+- Nmap
+- PowerShell
+- Windows Event Logs
+- Git
+- VirtualBox
 
 ---
 
-## Currently Learning
+# Cybersecurity Projects
 
-- SOC analyst investigation techniques
+## Home SOC Lab
+
+Simulated SOC environment demonstrating detection of:
+
+- authentication attacks
+- network port scans
+- DNS traffic investigation
+
+Repository:
+
+https://github.com/Ronoh12/home-soc-lab
+
+---
+
+## Windows Security Audit
+
+Windows host investigation using PowerShell and security logs.
+
+Repository:
+
+https://github.com/Ronoh12/windows-security-audit
+
+---
+
+## Wireshark Network Investigation
+
+Packet analysis and protocol investigation using Wireshark.
+
+Repository:
+
+https://github.com/Ronoh12/wireshark-network-investigation
+
+---
+
+## Malicious Traffic Analysis
+
+Network traffic investigation project identifying suspicious activity.
+
+Repository:
+
+https://github.com/Ronoh12/malicious-traffic-analysis
+
+---
+
+## SOC Incident Response Playbooks
+
+Security response procedures used by SOC teams.
+
+Repository:
+
+https://github.com/Ronoh12/soc-incident-response-playbook
+
+---
+
+# Current Learning
+
 - Threat hunting
-- Incident response
 - Network traffic analysis
+- SOC investigation techniques
+- Incident response workflows
 
 ---
 
-## GitHub Stats
+# GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronoh12&show_icons=true&theme=dark)
-
----
-
-## Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/rodgers-rono-a142a5188/  
-GitHub: https://github.com/Ronoh12
