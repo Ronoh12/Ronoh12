@@ -70,6 +70,9 @@ Nmap • Wireshark • Kali Linux • Windows Event Logs
 **Systems**
 Linux • Windows • PowerShell
 
+**Networking & Infrastructure**  
+TCP/IP • DNS • DHCP • VLANs • Routing & Switching • Network Troubleshooting • Linux Administration
+
 **Development**
 Python • TypeScript • JavaScript • React • Node.js
 
