@@ -83,10 +83,11 @@ Git • GitHub
 
 ## Current Focus
 
-- Security Operations
-- Threat Detection
-- Network Traffic Analysis
-- Incident Investigation
+- IT Infrastructure & Operations
+- Network Administration & Security
+- Security Operations & Blue Team
+- Threat Detection & Incident Investigation
+- Security Automation
 - Enterprise Software Development
 
 ---
