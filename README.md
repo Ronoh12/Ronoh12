@@ -95,4 +95,4 @@ Git • GitHub
 
 LinkedIn: https://www.linkedin.com/in/rodgers-rono-a142a5188
 
-Portfolio: Coming soon
+Portfolio: [rodgers-portfolio-ten.vercel.app](https://rodgers-portfolio-ten.vercel.app)
